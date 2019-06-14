@@ -148,7 +148,7 @@ button:hover {
 
 .map {  
     padding: 200px 0;
-    background: #e6e6e6 url("../images/map.png") center no-repeat / cover;
+    background: #e6e6e6 url("../images/map.PNG") center no-repeat / cover;
     -webkit-background-size: cover;
     background-size: cover;
 }
